@@ -1,0 +1,6 @@
+.auth-box {
+    padding: 10px 20px 20px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    display: inline-block;
+}
